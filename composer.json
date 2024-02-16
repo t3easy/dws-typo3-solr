@@ -1,0 +1,5 @@
+{
+    "name": "jank-dws-typo3/solr",
+    "description": "Solr service definition for Docker web stack for TYPO3",
+    "license": "GPL-2.0-or-later"
+}
